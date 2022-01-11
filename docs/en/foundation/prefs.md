@@ -14,9 +14,9 @@ Here is an example:
       "title": "GENERAL",
       "items": [
         {
-          "title": "USER_NAME",
+          "title": "jeverett3000",
           "type": "string",
-          "key": "user.name",
+          "key": "Jennifer.Everett",
           "value": "default user name"
         },
         {
